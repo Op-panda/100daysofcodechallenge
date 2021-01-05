@@ -1,5 +1,7 @@
 #include<iostream>
+using namespace std;
 #include<stdlib.h>
+
 int main()
 {   system("cls");
     double radius,area,perimeter;
