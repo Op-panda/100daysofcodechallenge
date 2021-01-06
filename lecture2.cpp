@@ -1,3 +1,5 @@
+// program to calculate the perimeter and area of a circle, given that user has to give radius input
+
 #include<iostream>
 using namespace std;
 #include<stdlib.h>
