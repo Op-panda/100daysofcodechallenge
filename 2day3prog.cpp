@@ -1,3 +1,5 @@
+// program to calculate arithmatic operation between two numbers
+
 #include<iostream>
 using namespace std;
 #include<stdlib.h>
