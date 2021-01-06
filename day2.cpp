@@ -1,3 +1,5 @@
+// prog to find distance between two given coordinates
+
 #include<iostream>
 using namespace std;
 #include<stdlib.h>
