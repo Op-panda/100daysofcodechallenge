@@ -1,3 +1,5 @@
+// program to convert into diiferent temperature scales
+
 #include<iostream>
 using namespace std;
 
